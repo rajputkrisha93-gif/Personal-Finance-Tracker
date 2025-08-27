@@ -4,10 +4,7 @@ Major Project: Personal finance tracker with stock price prediction
 ## Results (Graphs)
 
 ### Expenses by Category
-![Expenses Graph](outputs/expense_chart.png)
-
-### Income by Category
-![Income Graph](outputs/income_chart.png)
-
+### Expenses by Category
+![Expenses Graph](https://github.com/rajputkrisha93-gif/Personal-Finance-Tracker/blob/main/Outputs/expense_chart.png)
 
 
